@@ -1,0 +1,5 @@
+Working directory is where you find your .git file and other .txt files.
+The .git file is your repository.
+There are numeral files in the .git file. The index file is one of the most important. 
+Once we click git add command in git bash, we put the files into the index. 
+After we commit -m"",git will send all of the additions to the repository. 
